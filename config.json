@@ -1,0 +1,8 @@
+{
+    "name": "usermodel-service",
+    "version": "1.0.739",
+    "private": false,
+    "environment": "production",
+    "build_id": 953,
+    "allow_public_access": true
+}
